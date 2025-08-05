@@ -1,2 +1,2 @@
 # Heat-Spread
-Generating an animation showcasing spreading of heat in ground.
+Generating an animation showcasing proccess of spreading heat in the ground.
